@@ -1,0 +1,27 @@
+{
+  "name": "chromeipass",
+  "version": "2.8.1",
+  "description": "chromeIPass are extension to integrate KeePass/KeePassXC as a password manager with Google Chrome browser",
+  "main": "chromeipass.js",
+  "scripts": {
+    "test": "grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/galeksandrp/passifox.git"
+  },
+  "keywords": [
+    "chromeipass"
+  ],
+  "author": "Perry Nguyen <pfnguyen@hanhuy.com>",
+  "license": "\tGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/galeksandrp/passifox/issues"
+  },
+  "homepage": "https://github.com/galeksandrp/passifox#readme",
+  "devDependencies": {
+    "crx": "^4.0.1",
+    "grunt": "1.0.2",
+    "grunt-crx": "^1.0.5"
+  }
+}
